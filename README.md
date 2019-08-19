@@ -4,10 +4,10 @@ the mathematical problem of "trusted true random number" is solved, and a comple
 # At the consensus level
 a new consensus mechanism “POG” (proof of game) was developed, which can liberate 99% of the computing power and form a node consensus with complete credibility, complete fairness, and high speed.
 
-# In terms of resource description,
+# In terms of resource description
 UOC first proposed the theory of “public resources”, which allowed blockchain technology to expand from a single currency to a large-scale Internet application in the description of the ownership of digital assets.
 
-# At the script level,
+# At the script level
 the "aggregation contract" was developed to support the use of more than 100,000 contracts to write a large and complex complete decentralized application.
 
 # At the data layer
