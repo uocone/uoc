@@ -14,7 +14,7 @@ the Secure Data Transfer Protocol (SDTP) is developed to transmit data over the 
 ## At the consensus level
 a new consensus mechanism POG (proof of game) was developed, which can liberate 99% of the computing power and form a node consensus with complete credibility, complete fairness, and high speed.
 
-# In terms of resource description
+## In terms of resource description
 UOC first proposed the theory of “public resources”, which allowed blockchain technology to expand from a single currency to a large-scale Internet application in the description of the ownership of digital assets.
 
 ## At the script level
