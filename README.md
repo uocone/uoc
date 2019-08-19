@@ -1,8 +1,11 @@
 # In mathematics
 the mathematical problem of "trusted true random number" is solved, and a completely trusted device-independent true random number can be generated within "any agreed range". 
 
+# In the network underlying transport protocol
+the Secure Data Transfer Protocol (SDTP) is developed to transmit data over the Internet, providing secure, privacy-protected, and efficient data exchange for users under different service providers. the way. Is a set of rules for transferring data from the source address to the destination address, which controls the way the data is transferred.
+
 # At the consensus level
-a new consensus mechanism “POG” (proof of game) was developed, which can liberate 99% of the computing power and form a node consensus with complete credibility, complete fairness, and high speed.
+a new consensus mechanism POG (proof of game) was developed, which can liberate 99% of the computing power and form a node consensus with complete credibility, complete fairness, and high speed.
 
 # In terms of resource description
 UOC first proposed the theory of “public resources”, which allowed blockchain technology to expand from a single currency to a large-scale Internet application in the description of the ownership of digital assets.
