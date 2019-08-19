@@ -1,9 +1,9 @@
 # Introduction
   * UOC can realize the computing power of “completely no central server” in the processing speed of 10 seconds and 5000tps.
   * In mathematics, the mathematical problem of "trusted true random number" is solved, and a completely trusted device-independent true random number can be generated within "any agreed range". 
-  * The application scenarios of "trusted random number" are widely used, and are applicable to all kinds of multi-party interactive scenes that require high-quality random numbers on line and offline. 
-  * In the field of blockchain, the “trusted random number” directly promotes the “decentralization degree” and the POW, and the performance and efficiency far exceed the new consensus mechanism POG(proof of game) of POW. 
-  * In addition, the blockchain industry has brought billions of dollars in losses, and blockchain random number vulnerabilities that have been unsolvable have been completely resolved using "trusted random numbers".
+  >* The application scenarios of "trusted random number" are widely used, and are applicable to all kinds of multi-party interactive scenes that require high-quality random numbers on line and offline. 
+  >* In the field of blockchain, the “trusted random number” directly promotes the “decentralization degree” and the POW, and the performance and efficiency far exceed the new consensus mechanism POG(proof of game) of POW. 
+  >* In addition, the blockchain industry has brought billions of dollars in losses, and blockchain random number vulnerabilities that have been unsolvable have been completely resolved using "trusted random numbers".
 
 ## In mathematics
 the mathematical problem of "trusted true random number" is solved, and a completely trusted device-independent true random number can be generated within "any agreed range". 
